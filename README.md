@@ -1,2 +1,2 @@
-# practicea
+# practice
 angular learning
